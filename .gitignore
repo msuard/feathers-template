@@ -1,0 +1,7 @@
+node_modules
+
+config/development.json
+config/staging.json
+config/production.json
+
+.gitsecret/keys/random_seed
